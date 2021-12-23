@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Java/TestDetect/Sample_app/app/src/main/res/drawable/ic_supervisor_account_black_24dp.xml" value="0.14629629629629629" />
+        <entry key="..\:/Java/TestDetect/Sample_app/app/src/main/res/drawable/ic_text_fields_black_24dp.xml" value="0.14629629629629629" />
+        <entry key="..\:/Java/TestDetect/Sample_app/app/src/main/res/layout/activity_main.xml" value="0.184375" />
+        <entry key="..\:/Java/TestDetect/Sample_app/app/src/main/res/layout/activity_result.xml" value="0.184375" />
+        <entry key="..\:/Java/TestDetect/Sample_app/app/src/main/res/layout/activity_splash.xml" value="0.184375" />
+        <entry key="..\:/Java/TestDetect/Sample_app/app/src/main/res/layout/app_bar_main.xml" value="0.184375" />
+        <entry key="..\:/Java/TestDetect/Sample_app/app/src/main/res/layout/content_main.xml" value="0.184375" />
+        <entry key="..\:/Java/TestDetect/Sample_app/app/src/main/res/layout/fragment_gallery.xml" value="0.184375" />
+        <entry key="..\:/Java/TestDetect/Sample_app/app/src/main/res/layout/fragment_home.xml" value="0.184375" />
+        <entry key="..\:/Java/TestDetect/Sample_app/app/src/main/res/layout/fragment_send.xml" value="0.184375" />
+        <entry key="..\:/Java/TestDetect/Sample_app/app/src/main/res/layout/fragment_share.xml" value="0.184375" />
+        <entry key="..\:/Java/TestDetect/Sample_app/app/src/main/res/layout/fragment_slideshow.xml" value="0.184375" />
+        <entry key="..\:/Java/TestDetect/Sample_app/app/src/main/res/layout/fragment_tools.xml" value="0.184375" />
+        <entry key="..\:/Java/TestDetect/Sample_app/app/src/main/res/layout/nav_header_main.xml" value="0.184375" />
+        <entry key="..\:/Java/TestDetect/Sample_app/app/src/main/res/menu/activity_main_drawer.xml" value="0.184375" />
+        <entry key="..\:/Java/TestDetect/Sample_app/app/src/main/res/menu/main.xml" value="0.184375" />
+        <entry key="..\:/Java/project/TestDetect/Sample_app/app/src/main/res/drawable/ic_face_black_24dp.xml" value="0.15" />
+        <entry key="..\:/Java/project/TestDetect/Sample_app/app/src/main/res/drawable/ic_supervisor_account_black_24dp.xml" value="0.15" />
+        <entry key="..\:/Java/project/TestDetect/Sample_app/app/src/main/res/drawable/ic_text_fields_black_24dp.xml" value="0.15" />
+        <entry key="..\:/Java/project/TestDetect/Sample_app/app/src/main/res/layout/activity_main.xml" value="0.184375" />
+        <entry key="..\:/Java/project/TestDetect/Sample_app/app/src/main/res/layout/activity_result.xml" value="0.184375" />
+        <entry key="..\:/Java/project/TestDetect/Sample_app/app/src/main/res/layout/activity_splash.xml" value="0.184375" />
+        <entry key="..\:/Java/project/TestDetect/Sample_app/app/src/main/res/layout/app_bar_main.xml" value="0.184375" />
+        <entry key="..\:/Java/project/TestDetect/Sample_app/app/src/main/res/layout/content_main.xml" value="0.184375" />
+        <entry key="..\:/Java/project/TestDetect/Sample_app/app/src/main/res/layout/fragment_gallery.xml" value="0.184375" />
+        <entry key="..\:/Java/project/TestDetect/Sample_app/app/src/main/res/layout/fragment_home.xml" value="0.184375" />
+        <entry key="..\:/Java/project/TestDetect/Sample_app/app/src/main/res/layout/fragment_send.xml" value="0.184375" />
+        <entry key="..\:/Java/project/TestDetect/Sample_app/app/src/main/res/layout/fragment_share.xml" value="0.184375" />
+        <entry key="..\:/Java/project/TestDetect/Sample_app/app/src/main/res/layout/fragment_slideshow.xml" value="0.184375" />
+        <entry key="..\:/Java/project/TestDetect/Sample_app/app/src/main/res/layout/fragment_tools.xml" value="0.184375" />
+        <entry key="..\:/Java/project/TestDetect/Sample_app/app/src/main/res/layout/nav_header_main.xml" value="0.184375" />
+        <entry key="..\:/Java/project/TestDetect/Sample_app/app/src/main/res/menu/activity_main_drawer.xml" value="0.184375" />
+        <entry key="..\:/Java/project/TestDetect/Sample_app/app/src/main/res/menu/main.xml" value="0.184375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
